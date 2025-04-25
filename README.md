@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bukila
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me isasayyed63@gmail.com
 
